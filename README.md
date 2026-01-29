@@ -21,19 +21,29 @@ This project is a Java-based console application that focuses on teaching the co
 Features :
 
 •	File Creation: Create new files to store data.
+
 •	Write Data: Add data to files in an organized manner.
+
 •	Read Data: Retrieve and display data from files.
+
 •	Update & Delete Data: Modify existing data or remove files as needed.
+
 •	Exception Handling: Handles errors gracefully, such as missing files or invalid input.
+
 •	Console-Based Interaction: Simple command-line interface for easy execution and testing.
 
 Languages and Technologies Used :
 
 •	Java – Core programming language for the project.
+
 •	Core Java Libraries – Provides essential classes for handling data.
+
 •	Java I/O (Input/Output) – Manages file operations such as reading and writing.
+
 •	Exception Handling – Ensures smooth execution even when errors occur.
+
 •	Eclipse IDE – Development and execution environment for writing and testing code.
+
 •	Java Development Kit (JDK) – Required for compiling and running the program.
 
 Platform Used :
