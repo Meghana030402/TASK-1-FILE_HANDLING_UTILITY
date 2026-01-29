@@ -50,3 +50,4 @@ Applications
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/90d05ba4-1b64-4bef-9bcc-07aa133ef428)
