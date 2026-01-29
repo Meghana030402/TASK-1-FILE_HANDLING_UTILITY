@@ -52,10 +52,14 @@ This project is a Java-based console application that focuses on teaching the co
 
 # Applications :
 
-•	This project has both educational and professional relevance:
+•	This project has both educational and professional relevance.
+
 •	Academic Use: Commonly included in courses like Java Programming, Object-Oriented Programming, and Computer Science labs to teach file management.
+
 •	Internships & Entry-Level Jobs: Demonstrates essential skills in file handling, which is required in many real-world software projects.
+
 •	Real-World Scenarios: Can be applied for log file maintenance, storing user input, generating reports, configuration management, or situations where a database is unnecessary.
+
 •	Working on this project helps learners build confidence in Java fundamentals, practice disciplined coding habits, and gain a clear understanding of how applications interact with files. It also serves as a foundation for more advanced topics like backend development, database integration, and enterprise-level applications.
 
 # OUTPUT
