@@ -62,6 +62,8 @@ This project is a Java-based console application that focuses on teaching the co
 
 •	Working on this project helps learners build confidence in Java fundamentals, practice disciplined coding habits, and gain a clear understanding of how applications interact with files. It also serves as a foundation for more advanced topics like backend development, database integration, and enterprise-level applications.
 
+# 
+
 # OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/90d05ba4-1b64-4bef-9bcc-07aa133ef428)
